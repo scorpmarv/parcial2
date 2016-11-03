@@ -1,5 +1,15 @@
 # parcial2
 
+Install linux (could be in a VM)
+
+
+Install pip:
+
+$ sudo apt-get install python-pip
+
+
+
+
 Clone this repository
 
 
